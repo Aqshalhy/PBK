@@ -3,6 +3,26 @@
 
 *SoloLearn* adalah aplikasi pembelajaran pemrograman yang dirancang untuk pemula maupun mereka yang ingin meningkatkan keterampilan coding mereka. Aplikasi ini menawarkan kursus dalam berbagai bahasa pemrograman seperti Python, JavaScript, Java, C++, HTML, CSS, SQL, dan banyak lagi. SoloLearn dikenal dengan pendekatannya yang interaktif, berbasis komunitas, dan gamifikasi yang membuat belajar coding menjadi menyenangkan dan menarik.
 
+**Review Aplikasi SoloLearn: Tutor, Tools, dan Tutee**
+
+**1. Tutor (Fungsi Sebagai Pengajar)**
+- **SoloLearn** berperan sebagai "tutor" dengan menyediakan materi pelajaran pemrograman yang interaktif dan mudah diikuti. Aplikasi ini menggunakan pendekatan berbasis pembelajaran sosial di mana pengguna bisa belajar dari materi pelajaran yang disediakan serta dari pengguna lain melalui diskusi dan komentar.
+- SoloLearn memiliki banyak kursus untuk berbagai bahasa pemrograman, seperti Python, Java, C++, JavaScript, HTML, CSS, SQL, dan banyak lagi. Setiap kursus dirancang untuk mencakup topik-topik dasar hingga lanjutan, sehingga bisa memenuhi kebutuhan pemula hingga mereka yang ingin memperdalam pemahaman.
+- Terdapat fitur **"Learn"** yang menyajikan materi secara modular. Setiap modul terdiri dari pelajaran singkat yang diikuti dengan kuis untuk memeriksa pemahaman pengguna. Pelajaran ini dirancang agar bisa diakses dengan mudah kapan saja dan di mana saja, cocok untuk belajar di sela-sela waktu luang.
+
+**2. Tools (Fungsi Sebagai Alat Belajar)**
+- SoloLearn menyediakan alat-alat belajar yang interaktif seperti editor kode bawaan yang memungkinkan pengguna menulis dan menjalankan kode langsung di aplikasi. Ini sangat berguna untuk pemula yang ingin langsung mencoba kode tanpa harus menginstal perangkat lunak tambahan.
+- Aplikasi ini juga memiliki fitur **"Code Playground"** yang memungkinkan pengguna untuk membuat, berbagi, dan melihat kode dari komunitas SoloLearn lainnya. Pengguna dapat mempelajari bagaimana cara kerja kode tertentu dengan melihat proyek nyata yang dibagikan oleh orang lain.
+- Fitur **"Quiz and Challenges"** menyediakan kuis interaktif dan tantangan coding yang mendorong pengguna untuk mempraktikkan keterampilan mereka secara langsung dan menyelesaikan masalah dengan kode.
+- SoloLearn memiliki **"Gamification Elements"** seperti poin, level, dan lencana untuk mendorong pengguna agar tetap termotivasi. Setiap kali menyelesaikan modul atau memenangkan tantangan, pengguna akan mendapatkan poin dan naik level.
+
+**3. Tutee (Fungsi Sebagai Siswa)**
+- SoloLearn berperan sebagai platform untuk siswa (tutee) yang ingin belajar pemrograman dari awal atau meningkatkan keterampilan yang sudah dimiliki. Aplikasi ini dirancang agar mudah diakses oleh pengguna dari berbagai tingkat kemampuan, mulai dari pemula hingga tingkat lanjutan.
+- Pengguna (tutee) dapat mengakses berbagai kursus yang tersedia secara gratis. Mereka dapat belajar dengan kecepatan masing-masing dan mengulangi materi jika diperlukan.
+- SoloLearn menyediakan komunitas belajar yang aktif di mana tutee bisa bertanya, berdiskusi, dan mendapatkan bantuan dari pengguna lain. Ini sangat berguna untuk membantu mereka yang mengalami kesulitan dalam memecahkan masalah atau memahami konsep tertentu.
+- Pengguna juga bisa mengikuti **"Daily Goals"** untuk menjaga konsistensi belajar, di mana aplikasi akan memberikan tantangan harian yang harus diselesaikan untuk mempertahankan "streak" belajar.
+
+
 ### *Deskripsi Aplikasi SoloLearn:*
 
 1. *Kursus Interaktif:* SoloLearn menyediakan pelajaran dalam bentuk teks dan kuis singkat yang membantu pengguna memahami konsep dasar dari bahasa pemrograman. Setiap kursus dibagi menjadi beberapa modul atau bab yang berisi teori, contoh kode, dan latihan praktek.
